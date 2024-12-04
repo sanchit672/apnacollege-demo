@@ -1,4 +1,5 @@
 # apnacollege-demo
 This is my first git - repository.
-Author:- Sanchit Singh
+Author:- Sanchit 
+
 
