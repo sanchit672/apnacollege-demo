@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first git - repository.<br>
-Author-Sanchit Singh
+Author-Sanchit Singh(Xtemecode)
